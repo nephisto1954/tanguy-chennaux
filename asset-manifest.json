@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tanguy-chennaux/static/css/main.5f361e03.chunk.css",
+    "main.js": "/tanguy-chennaux/static/js/main.53af5e8d.chunk.js",
+    "main.js.map": "/tanguy-chennaux/static/js/main.53af5e8d.chunk.js.map",
+    "runtime-main.js": "/tanguy-chennaux/static/js/runtime-main.0db9a847.js",
+    "runtime-main.js.map": "/tanguy-chennaux/static/js/runtime-main.0db9a847.js.map",
+    "static/js/2.f6a02a98.chunk.js": "/tanguy-chennaux/static/js/2.f6a02a98.chunk.js",
+    "static/js/2.f6a02a98.chunk.js.map": "/tanguy-chennaux/static/js/2.f6a02a98.chunk.js.map",
+    "index.html": "/tanguy-chennaux/index.html",
+    "precache-manifest.e258ea237954447386d232a5fb52548e.js": "/tanguy-chennaux/precache-manifest.e258ea237954447386d232a5fb52548e.js",
+    "service-worker.js": "/tanguy-chennaux/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/tanguy-chennaux/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f6a02a98.chunk.js.LICENSE.txt": "/tanguy-chennaux/static/js/2.f6a02a98.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tanguy-chennaux/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0db9a847.js",
+    "static/js/2.f6a02a98.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.53af5e8d.chunk.js"
+  ]
+}
